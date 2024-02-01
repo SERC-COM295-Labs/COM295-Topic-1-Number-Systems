@@ -1,0 +1,1 @@
+# Write a program that asks the user to enter a number and then displays all the products of that number.
