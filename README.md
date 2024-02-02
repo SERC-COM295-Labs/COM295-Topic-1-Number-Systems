@@ -31,9 +31,9 @@ This exercise is a review of algebraic expressions and the order of operations.
 
 Complete the exercises in the `1-algebra.py` file.
 
-## Exercise 2 - Products of a given number
+## Exercise 2 - Factors of a given number
 
-In the `2-products.py` file, write a program that asks the user to enter a number and then prints all the products of that number.
+In the `2-factors.py` file, write a program that asks the user to enter a number and then prints all the factors of that number.
 
 ## Exercise 3 - Number Sets
 
