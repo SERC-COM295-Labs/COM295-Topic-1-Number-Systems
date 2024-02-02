@@ -50,3 +50,7 @@ Q. Why might you not want to write a program that can classify a number as a mem
 ## Exercise 4 - Binary to Decimal
 
 In the `4-binary-to-decimal.py` file, write a program that asks the user to enter a binary number and then prints the decimal equivalent of that number.
+
+## Exercise 5 - Greatest Common Divisor
+
+In the `5-gcd.py` file, write a program that asks the user to enter two numbers and then prints the greatest common divisor of those numbers. i.e. the largest number that divides both numbers without leaving a remainder.
