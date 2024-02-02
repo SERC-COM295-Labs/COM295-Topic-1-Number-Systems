@@ -46,3 +46,7 @@ In the `3-number-sets.py` file, write a program that asks the user to enter a nu
 - Real Numbers
 
 Q. Why might you not want to write a program that can classify a number as a member of the set of Irrational Numbers?
+
+## Exercise 4 - Binary to Decimal
+
+In the `4-binary-to-decimal.py` file, write a program that asks the user to enter a binary number and then prints the decimal equivalent of that number.
